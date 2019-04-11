@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Json" type="JSON" />
       <mapping pattern="Comm" type="PLAIN_TEXT" />
       <mapping pattern="navigation" type="XML" />
     </extensionMap>
