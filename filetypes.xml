@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Json" type="JSON" />
+      <mapping pattern="Estructura" type="JSON" />
       <mapping pattern="Comm" type="PLAIN_TEXT" />
       <mapping pattern="navigation" type="XML" />
     </extensionMap>
